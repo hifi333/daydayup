@@ -1,8 +1,6 @@
 .DS_Store
 .vscode
-c/*.dSYM
-c/*.out
-c/*.o
+**/*.dSYM
+**/*.out
+**/*.o
 .gitignore
-*.dSYM
-*.o
