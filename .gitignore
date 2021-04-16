@@ -1,6 +1,8 @@
-!*.c
-!*.java
-!*.js
-!*.py
-!*.pdf
-
+.DS_Store
+.vscode
+c/*.dSYM
+c/*.out
+c/*.o
+.gitignore
+*.dSYM
+*.o
